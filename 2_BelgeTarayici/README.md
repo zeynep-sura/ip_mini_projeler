@@ -1,6 +1,8 @@
 # 📄 Belge Tarayıcı (Document Scanner)
 
 Bu proje, Python ve OpenCV kullanarak kameradan alınan görüntüdeki kağıdı otomatik olarak algılayan, perspektifini düzelten (yamukluğu gideren) ve okunabilirliğini artıran bir çalışmadır.
+### 📌 Dosya Notu
+* **`kenar_belirle.py`:** Sadece ilk aşamada kameranın kenarları nasıl algıladığını test eden temel çalışmadır.
 
 ---
 
