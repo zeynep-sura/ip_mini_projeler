@@ -8,6 +8,7 @@ Bu depoda, Python ve OpenCV kütüphanesini kullanarak geliştirdiğim mini gör
 Kameradan anlık çekilen fotoğraflar üzerinde klavye tuşlarıyla (Siyah-Beyaz, Sepya, Bulanıklaştırma, Kenar Tespiti) canlı filtreleme yapar.
 * [1-Filtre Uygulaması ](./1_FiltreUygulaması/)
 * [2-Belge Tarayıcı ](./2_BelgeTarayici/)
+* [3-Kolaj Uygulaması](./3_KolajUygulama/)
 
 
 
