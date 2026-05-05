@@ -7,7 +7,7 @@ Bu depoda, Python ve OpenCV kütüphanesini kullanarak geliştirdiğim mini gör
 * [1-Filtre Uygulaması ](./1_FiltreUygulaması/)
 * [2-Belge Tarayıcı ](./2_BelgeTarayici/)
 * [3-Kolaj Uygulaması](./3_KolajUygulama/)
-
+* [4-Yesil Ekran](./4_YesilEkran/)
 
 
   
