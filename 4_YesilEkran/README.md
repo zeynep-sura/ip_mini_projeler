@@ -33,3 +33,7 @@ Bu proje, Yeşil Ekran teknolojisinin arkasındaki temel görüntü işleme mant
 * `sonuc.jpg`: İşlem tamamlandıktan sonra elde edilen nihai görsel.
 
 ---
+
+Programın çalıştırılması sonucunda elde edilen görüntü aşağıdadır:
+
+![Örnek Yesil Ekran Çıktısı](sonuc.jpg)
