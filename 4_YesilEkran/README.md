@@ -1,4 +1,4 @@
-# 🎬 Yeşil Ekran (Chroma Key) Uygulaması
+# 🎬 Yeşil Ekran Uygulaması
 
 Bu proje, Yeşil Ekran teknolojisinin arkasındaki temel görüntü işleme mantığını uygulamalı olarak gösterir. Projede, yeşil arka plana sahip bir görseldeki pikseller maskelenerek temizlenir ve yerine dinamik olarak yeni bir manzara resmi yerleştirilir.
 
