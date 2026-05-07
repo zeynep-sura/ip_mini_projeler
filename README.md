@@ -8,6 +8,8 @@ Bu depoda, Python ve OpenCV kütüphanesini kullanarak geliştirdiğim mini gör
 * [2-Belge Tarayıcı ](./2_BelgeTarayici/)
 * [3-Kolaj Uygulaması](./3_KolajUygulama/)
 * [4-Yesil Ekran](./4_YesilEkran/)
+* [5-Nesne Takip](./5_NesneTakip/)
+
 
 
   
